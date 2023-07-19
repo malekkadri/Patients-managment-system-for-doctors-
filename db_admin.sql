@@ -96,7 +96,7 @@ INSERT INTO `tbl_users` (`id`, `num`, `name`, `fname`, `username`, `email`, `pas
 (26, 0, 'Makrem', NULL, 'makrem', 'makrem@gmail.com', 'adef7009a84a71c226ddf68671e929d68a707762', '42551771', NULL, NULL, NULL, NULL, NULL, 3, 0, '2020-12-19 15:16:59', '2020-12-19 15:16:59'),
 (27, 0, 'Sirin', NULL, 'Sirin', 'Sirin@gmail.com', '03ee5fda2eae80be34c0142fe28ac6401e63324c', '23451671', NULL, NULL, NULL, NULL, NULL, 3, 0, '2020-12-19 15:17:34', '2020-12-19 15:17:34'),
 (30, 0, 'Malek kadri', NULL, 'malik', 'malekmak@live.fr', '53ad04bf1b0452dfd81ffc6d89241e4b254c22d7', '27414462', NULL, NULL, NULL, NULL, NULL, 3, 0, '2023-07-18 21:50:59', '2023-07-18 21:50:59'),
-(31, 2, 'ghada', 'tabbesi', 'ghada', 'ghada@gmail.com', '535a97a8c7ab406294c5a5f8c022c73f2bacc0a7', '27414462', 'Masculin', NULL, 'gafsa', '67', '123', 1, 0, '2023-07-18 22:22:27', '2023-07-18 22:22:27');
+(31, 2, 'ghada', 'tabbesi', 'ghada', 'malek@gmail.com', '535a97a8c7ab406294c5a5f8c022c73f2bacc0a7', '27414462', 'Masculin', NULL, 'gafsa', '67', '123', 1, 0, '2023-07-18 22:22:27', '2023-07-18 22:22:27');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
