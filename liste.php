@@ -127,7 +127,7 @@ if (isset($username)) {
                         <td>
                           <?php if ( Session::get("roleid") == '1') {?>
                             <a class="btn btn-success btn-sm
-                            " href="profile.php?id=<?php echo $value->id;?>">View</a>
+                            " href="show.php?id=<?php echo $value->id;?>">View</a>
                             <a class="btn btn-info btn-sm " href="profile.php?id=<?php echo $value->id;?>">Edit</a>
                             <a onclick="return confirm('Are you sure To Delete ?')" class="btn btn-danger
                     <?php if (Session::get("id") == $value->id) {
